@@ -14,14 +14,14 @@ Mínim 1 Exam EA
 
 ## Description
 
-It is basically an example of managing bike stations and the bikes inside them graphically with Angular, Nodejs and Mongodb.
+It is basically an example of managing bike stations and the bikes inside them graphically with Angular, Node.js and Mongodb.
 
 ## Technologies
 
-- node.js
-- express
-- mongoose
-- angular
+- Node.js
+- Express
+- Mongoose (mongoDB)
+- Angular
 
 ## How To Use
 
